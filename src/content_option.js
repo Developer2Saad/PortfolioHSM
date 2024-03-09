@@ -1,23 +1,23 @@
-const logotext = "JOHN";
+const logotext = "HSM";
 const meta = {
-    title: "John Doe",
-    description: "I’m John Doe data scientist _ Full stack devloper,currently working in Berlin",
+    title: "Hafiz Saad Malik",
+    description: "Hafiz Saad Malik Front end | Wordpress | Shopify | BigCommerce | React JS Developer",
 };
 
 const introdata = {
-    title: "I’m John Doe",
+    title: "I’m Hafiz Saad Malik",
     animated: {
         first: "I love coding",
         second: "I code cool websites",
-        third: "I develop mobile apps",
+        third: "I develop 100+ Ecommerce Stores",
     },
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum",
+    description: "Hello, I'm Hafiz Saad Malik, a seasoned front-end developer with over 9 years of experience in crafting engaging and dynamic web experiences. My journey in web development began with a passion for creating visually stunning and user-friendly interfaces. Over the years, I have honed my skills in CMS development, mastering the art of delivering seamless and efficient content management solutions. My commitment to excellence and innovation has led me to work on a variety of projects, each presenting unique challenges that I tackle with enthusiasm and expertise. I am excited to continue pushing the boundaries of web development and creating impactful digital experiences.",
     your_img_url: "https://images.unsplash.com/photo-1514790193030-c89d266d5a9d",
 };
 
 const dataabout = {
     title: "abit about my self",
-    aboutme: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent quis dolor id ligula semper elementum feugiat pretium nulla. Nunc non commodo dolor. Nunc mollis dignissim facilisis. Morbi ut magna ultricies.",
+    aboutme: "Hello, I'm Hafiz Saad Malik, a seasoned front-end developer with over 9 years of experience in crafting engaging and dynamic web experiences. My journey in web development began with a passion for creating visually stunning and user-friendly interfaces. Over the years, I have honed my skills in CMS development, mastering the art of delivering seamless and efficient content management solutions. I have also worked extensively with various platforms and frameworks, including Shopify, WordPress, BigCommerce, React.js, and most CSS frameworks. My commitment to excellence and innovation has led me to work on a variety of projects, each presenting unique challenges that I tackle with enthusiasm and expertise. I am excited to continue pushing the boundaries of web development and creating impactful digital experiences.",
 };
 const worktimeline = [{
         jobtitle: "Designer of week",
@@ -25,7 +25,7 @@ const worktimeline = [{
         date: "2020",
     },
     {
-        jobtitle: "Designer of week",
+        jobtitle: "Designer of Me",
         where: "Jamalya",
         date: "2019",
     },
@@ -73,25 +73,21 @@ const services = [{
 ];
 
 const dataportfolio = [{
-        img: "https://picsum.photos/400/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
+        img: "https://lumaandleaf.com/cdn/shop/files/Fresh_Lift_1080x1080_web_size_540x540.png",
+        description: "Luma & Leaf",
+        link: "https://lumaandleaf.com/",
     },
     {
-        img: "https://picsum.photos/400/800/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
+        img: "https://cdn.shopify.com/s/files/1/1219/6322/files/android-chrome-512x512.png?v=1677220934",
+        description: "Lusso Leather",
+        link: "https://www.lussoleather.com/",
     },
     {
-        img: "https://picsum.photos/400/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
+        img: "https://www.sparkset.io/wp-content/uploads/2023/01/Logo1.png",
+        description: "Sparkset",
+        link: "https://www.sparkset.io/",
     },
-    {
-        img: "https://picsum.photos/400/600/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
+    
     {
         img: "https://picsum.photos/400/300/?grayscale",
         description: "The wisdom of life consists in the elimination of non-essentials.",
@@ -136,9 +132,9 @@ const dataportfolio = [{
 ];
 
 const contactConfig = {
-    YOUR_EMAIL: "name@domain.com",
-    YOUR_FONE: "(555)123-4567",
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vehicula eu nunc et sollicitudin. Cras pulvinar, nisi at imperdiet pharetra. ",
+    YOUR_EMAIL: "thtdeveloperz@gmail.com",
+    YOUR_FONE: "+92-311-2915802",
+    description: "Hello, I'm Hafiz Saad Malik, a seasoned front-end developer with over 9 years of experience in crafting engaging and dynamic web experiences. My journey in web development began with a passion for creating visually stunning and user-friendly interfaces.",
     // creat an emailjs.com account 
     // check out this tutorial https://www.emailjs.com/docs/examples/reactjs/
     YOUR_SERVICE_ID: "service_id",
@@ -147,10 +143,9 @@ const contactConfig = {
 };
 
 const socialprofils = {
-    github: "https://github.com",
-    facebook: "https://facebook.com",
-    linkedin: "https://linkedin.com",
-    twitter: "https://twitter.com",
+    github: "https://github.com/Developer2Saad",
+    facebook: "https://www.facebook.com/SaadMalikUiDeveloper?mibextid=ZbWKwL",
+    linkedin: "https://www.linkedin.com/in/shopify-front-end-developer",
 };
 export {
     meta,
